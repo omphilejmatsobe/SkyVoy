@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/omphilejmatsobe/SkyVoy/master/ProjectDisplay/markdownify.png" alt="SkyVoy" width="200">
+  <img src="https://raw.githubusercontent.com/omphilejmatsobe/SkyVoy/master/SkyVoy.png" alt="SkyVoy" width="200">
   <br>
   SkyVoy
   <br>
