@@ -7,4 +7,4 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of</h4>
+<h4 align="center">A flight fare search engine</h4>
