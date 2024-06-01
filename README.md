@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="Project_Display/SkyVoy.png" alt="SkyVoy" width="200">
+  <img src="Project_Display/SkyVoy.png" alt="SkyVoy" width="400">
   <br>
   SkyVoy
   <br>
